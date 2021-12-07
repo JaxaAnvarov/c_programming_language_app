@@ -1,16 +1,12 @@
-# dars23
+# "C" dasturlash tili applicationi.
 
-A new Flutter project.
+### Dastur Haqida Qisqacha :
+Dasturdan "C" dasturlash tili haqida ma'lumotlar bilan tanishib chiqishingiz mumkun bo'ladi.
+Dasturda ya'na mavzular bor va ular asosida kichik savollar bor.
 
-## Getting Started
+## Dastur Sahifalari 👇:
 
-This project is a starting point for a Flutter application.
+### Home Page :
+<a href="https://ibb.co/zQFG7GL"><img src="https://i.ibb.co/LYrnJnq/1-page.png" alt="1-page" border="0"></a>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Login Page
